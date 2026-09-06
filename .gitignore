@@ -1,0 +1,51 @@
+# ==========================================
+# Microsoft Office & Excel Temporary Files
+# ==========================================
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.xlsb
+~$*.docx
+~$*.doc
+*.tmp
+*.temp
+
+# Excel Autosave and Recovery files
+*.xlk
+*.bak
+*.xar
+*.crdownload
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ==========================================
+# IDE & Editor Configurations
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.agents/
+.gemini/
